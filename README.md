@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **As FreeLance**
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m currently learning **Typescript**
 
 - 📫 How to reach me **https://www.linkedin.com/in/cristopher-ramirez-218857235/**
 
