@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Cristopher Ramirez</h1>
 <h3 align="center">A passionate FrontEnd Developer from Costa Rica</h3>
 
-- 🔭 I’m currently working on **As FreeLance**
+- 🔭 I’m currently working in **Tinkod Analytics**
 
-- 🌱 I’m currently learning **NextJs in the future**
+- 🌱 I’m currently learning **NextJs**
 
 - 👯 Lets take a look to my Portfolio [Portfolio](https://crisrmrz.github.io/Portfolio/)
 
